@@ -33,20 +33,21 @@ The analysis focuses on key metrics such as billing amounts, diagnosis-wise pati
 
 
 3. Key Metrics
+   
  3.1 Bill Amount:= 190.43millions
 
    
- 3.2 Patient_Count_By_Test :=
+3.2 Patient_Count_By_Test :=
  
- Blood Test: 2236 patient
+   Blood Test: 2236 patient
  
- MRI: 1789 patients
+   MRI: 1789 patients
  
- CT Scan: 85 patients
+   CT Scan: 85 patients
  
- Ultrasound: 895 patient
+   Ultrasound: 895 patient
  
- X-Ray: 895 patient
+   X-Ray: 895 patient
 
  3.3 Diagnosis-wise Patient count:=
  Viral Infection : 2004 patient
