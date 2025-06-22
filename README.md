@@ -116,7 +116,17 @@ Based on the analysis:
 
    Highest patients in Blood test = 2004 patient
 
+ =============================================
+ 
+6.summary in sort form 
 
+Developed a dashboard to visualize ₹190.43M billing data from 10K+ patients, covering diagnoses, tests, and insurance 
+
+Found that 91% of billing was covered by insurance; Blood Tests (26.7%) and Viral Infections (23.4%) were most common 
+
+Delivered insights on bed occupancy, test volume trends, and billing vs. insurance comparisons (e.g., CT Scan: ₹63M vs ₹57M) 
+
+==============================================
 
 📬 Contact
 If you have any questions or suggestions, feel free to reach out! 😊
