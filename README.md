@@ -6,6 +6,8 @@
 The purpose of this report is to provide insights into hospital operations based on patient data from December 2023 to March 2024.
 The analysis focuses on key metrics such as billing amounts, diagnosis-wise patient counts, discharges date , and Billing amount vs Health insurance Amount.
 
+=================================================
+
 2. Data Overview
    The dataset contains the following fields:
 
@@ -31,6 +33,7 @@ The analysis focuses on key metrics such as billing amounts, diagnosis-wise pati
 
    Diagnosis-wise patient count: nunmber of patient 
 
+===============================================================
 
 3. Key Metrics
    
@@ -63,45 +66,48 @@ The analysis focuses on key metrics such as billing amounts, diagnosis-wise pati
     Fracture: 287 patient
 
   3.4 Billing Amount vs Health Insurance Amount
+  
   A.Patients for CT Scan :=
   
   Billiing amount = 63millions
   
-  Health insurance amount: 57millions
+  Health insurance amount= 57millions
   
 
   B.Patients for Ultrasound :=
   
   Billiing amount = 58millions
   
-  Health insurance amount: 52millions
+  Health insurance amount= 52millions
 
   C.Patients for MRi :=
   
   Billiing amount = 53millions
   
-  Health insurance amount: 48millions
+  Health insurance amount= 48millions
   
 
 D.Patients for Blood test :=
 
   Billiing amount = 11millions
   
-  Health insurance amount: 10millions
+  Health insurance amount= 10millions
   
 
 E.Patients for X-ray :=
 
   Billiing amount = 5millions
   
-  Health insurance amount: 5millions
+  Health insurance amount= 5millions
+  
+=====================================================
 
-6.Result : 
+4.Result : 
 
 ![Power BI Desktop 22-06-2025 13_54_23](https://github.com/user-attachments/assets/5339cc5c-cd7d-458a-afbf-3b2236b2ebb0)
 
 
-7. Conclusions
+5. Conclusions
 Based on the analysis:
 
 The total billing amount =  ₹190.43 millions.
