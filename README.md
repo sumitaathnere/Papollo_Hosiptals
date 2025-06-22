@@ -51,10 +51,15 @@ The analysis focuses on key metrics such as billing amounts, diagnosis-wise pati
 
    3.3 Diagnosis-wise Patient count:=
     Viral Infection : 2004 patient
+
     Flu: 1717 patient
+   
     Malaria: 1431 patient
+
    Typhoid: 1145 patient
+   
     Pneumonia: 573 patient
+   
     Fracture: 287 patient
 
 3.4 Billing Amount vs Health Insurance Amount
