@@ -13,23 +13,23 @@ The analysis focuses on key metrics such as billing amounts, diagnosis-wise pati
 
    Admit_Date: The date when the patient was admitted.
 
-  Discharge_Date: The date when the patient was discharged.
+   Discharge_Date: The date when the patient was discharged.
 
-  Follow_Up_Date:	Scheduled date for the patient's follow-up appointment.
+   Follow_Up_Date:	Scheduled date for the patient's follow-up appointment.
 
-  Billing_Amount: Total billing amount for the patient.
+   Billing_Amount: Total billing amount for the patient.
 
-  Bed_Occupancy: Type of bed the patient occupied (ICU, Private, General).
+   Bed_Occupancy: Type of bed the patient occupied (ICU, Private, General).
 
-  Test: The primary test conducted (CT Scan, Blood Test, MRI, etc.).
+   Test: The primary test conducted (CT Scan, Blood Test, MRI, etc.).
 
-  Feedback_Volume_Per_Doctor: Number of feedback submissions associated with each doctor.
+   Feedback_Volume_Per_Doctor: Number of feedback submissions associated with each doctor.
 
-  Billing Amount vs Health Insurance Amount: Compare how much the patient paid vs what insurance covered.
+   Billing Amount vs Health Insurance Amount: Compare how much the patient paid vs what insurance covered.
 
-  Patient_Count_By_Test: Number of patients who underwent each test type.
+   Patient_Count_By_Test: Number of patients who underwent each test type.
 
-  Diagnosis-wise patient count: nunmber of patient 
+   Diagnosis-wise patient count: nunmber of patient 
 
 
 3. Key Metrics
