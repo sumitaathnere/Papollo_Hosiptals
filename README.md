@@ -62,25 +62,38 @@ The analysis focuses on key metrics such as billing amounts, diagnosis-wise pati
    
     Fracture: 287 patient
 
-3.4 Billing Amount vs Health Insurance Amount
-A.Patients for CT Scan :=
+  3.4 Billing Amount vs Health Insurance Amount
+  A.Patients for CT Scan :=
+  
   Billiing amount = 63millions
+  
   Health insurance amount: 57millions
+  
 
-B.Patients for Ultrasound :=
+  B.Patients for Ultrasound :=
+  
   Billiing amount = 58millions
+  
   Health insurance amount: 52millions
 
-C.Patients for MRi :=
+  C.Patients for MRi :=
+  
   Billiing amount = 53millions
+  
   Health insurance amount: 48millions
+  
 
 D.Patients for Blood test :=
+
   Billiing amount = 11millions
+  
   Health insurance amount: 10millions
+  
 
 E.Patients for X-ray :=
+
   Billiing amount = 5millions
+  
   Health insurance amount: 5millions
 
 6.Result : 
