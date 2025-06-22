@@ -110,11 +110,11 @@ E.Patients for X-ray :=
 5. Conclusions
 Based on the analysis:
 
-The total billing amount =  ₹190.43 millions.
+   The total billing amount =  ₹190.43 millions.
 
-Highest patients in viral infection diagnosis = 2004 patient
+   Highest patients in viral infection diagnosis = 2004 patient
 
-Highest patients in Blood test = 2004 patient
+   Highest patients in Blood test = 2004 patient
 
 
 
