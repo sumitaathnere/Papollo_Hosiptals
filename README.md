@@ -34,7 +34,7 @@ The analysis focuses on key metrics such as billing amounts, diagnosis-wise pati
 
 3. Key Metrics
    
- 3.1 Bill Amount:= 190.43millions
+   3.1 Bill Amount:= 190.43millions
 
    
 3.2 Patient_Count_By_Test :=
