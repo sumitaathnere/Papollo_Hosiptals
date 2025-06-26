@@ -3,12 +3,15 @@
 #Papollo Hospital: Data Analysis Report
 
 1. Introduction
+   =
+
 The purpose of this report is to provide insights into hospital operations based on patient data from December 2023 to March 2024.
 The analysis focuses on key metrics such as billing amounts, diagnosis-wise patient counts, discharges date , and Billing amount vs Health insurance Amount.
 
 =================================================
 
 2. Data Overview
+   =
    The dataset contains the following fields:
 
    Patient_ID: Unique identifier for each patient.
@@ -36,7 +39,7 @@ The analysis focuses on key metrics such as billing amounts, diagnosis-wise pati
 ===============================================================
 
 3. Key Metrics
-   
+   =
    3.1 Bill Amount:= 190.43millions
 
    
@@ -103,11 +106,12 @@ E.Patients for X-ray :=
 =====================================================
 
 4.Result : 
-
+  =
 ![Power BI Desktop 22-06-2025 13_54_23](https://github.com/user-attachments/assets/5339cc5c-cd7d-458a-afbf-3b2236b2ebb0)
 
 
 5. Conclusions
+   =
 Based on the analysis:
 
    The total billing amount =  ₹190.43 millions.
@@ -119,7 +123,7 @@ Based on the analysis:
  =============================================
  
 6.summary in sort form 
-
+=
 Developed a dashboard to visualize ₹190.43M billing data from 10K+ patients, covering diagnoses, tests, and insurance 
 
 Found that 91% of billing was covered by insurance; Blood Tests (26.7%) and Viral Infections (23.4%) were most common 
@@ -129,6 +133,7 @@ Delivered insights on bed occupancy, test volume trends, and billing vs. insuran
 ==============================================
 
 📬 Contact
+=
 If you have any questions or suggestions, feel free to reach out! 😊
 
 Email:-sumitaathnere7@gmail.com
