@@ -2,7 +2,7 @@
 
 #Papollo Hospital: Data Analysis Report
 
-1. Introduction
+ Introduction
    =
 
 The purpose of this report is to provide insights into hospital operations based on patient data from December 2023 to March 2024.
@@ -10,8 +10,8 @@ The analysis focuses on key metrics such as billing amounts, diagnosis-wise pati
 
 =================================================
 
-2. Data Overview
-=
+ Data Overview
+   =
    The dataset contains the following fields:
 
    Patient_ID: Unique identifier for each patient.
@@ -38,12 +38,12 @@ The analysis focuses on key metrics such as billing amounts, diagnosis-wise pati
 
 ===============================================================
 
-3. Key Metrics
+ Key Metrics
    =
-   3.1 Bill Amount:= 190.43millions
+   1 Bill Amount:= 190.43millions
 
    
-   3.2 Patient_Count_By_Test :=
+   2 Patient_Count_By_Test :=
  
    Blood Test: 2236 patient
  
@@ -55,7 +55,7 @@ The analysis focuses on key metrics such as billing amounts, diagnosis-wise pati
  
    X-Ray: 895 patient
 
-   3.3 Diagnosis-wise Patient count:=
+   3 Diagnosis-wise Patient count:=
     Viral Infection : 2004 patient
 
     Flu: 1717 patient
@@ -68,7 +68,7 @@ The analysis focuses on key metrics such as billing amounts, diagnosis-wise pati
    
     Fracture: 287 patient
 
-  3.4 Billing Amount vs Health Insurance Amount
+  4 Billing Amount vs Health Insurance Amount
   
   A.Patients for CT Scan :=
   
@@ -105,12 +105,12 @@ E.Patients for X-ray :=
   
 =====================================================
 
-4.Result : 
+Result : 
   =
 ![Power BI Desktop 22-06-2025 13_54_23](https://github.com/user-attachments/assets/5339cc5c-cd7d-458a-afbf-3b2236b2ebb0)
 
 
-5. Conclusions
+ Conclusions
    =
 Based on the analysis:
 
@@ -122,7 +122,7 @@ Based on the analysis:
 
  =============================================
  
-6.summary in sort form 
+summary in sort form 
 =
 Developed a dashboard to visualize ₹190.43M billing data from 10K+ patients, covering diagnoses, tests, and insurance 
 
